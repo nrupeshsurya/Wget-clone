@@ -1,0 +1,25 @@
+protocol : http, hostname : www.science.smith.edu, dest: ~jcardell/Courses/EGR328/Readings/KRch5Link.pdf
+ip address is : 131.229.72.71
+
+Header: 
+
+http/1.1 200 ok
+date: mon, 05 apr 2021 12:43:26 gmt
+server: apache/2.4.39 (ubuntu)
+last-modified: wed, 15 feb 2012 13:29:44 gmt
+etag: "332de-4b900b45d6200"
+accept-ranges: bytes
+content-length: 209630
+connection: close
+content-type: application/pdf
+
+Header end
+
+Content-Type: application/pdf
+Content-Length: 209630
+
+
+
+Saving data...
+
+file has been saved!
